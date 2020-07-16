@@ -2,7 +2,7 @@ require('dotenv').load();
 const commando = require('discord.js-commando');
 const client = new commando.Client({
   owner: [
-    '197891949913571329',
+    '376384142599782410',
     '251383432331001856', // Chronomly
     '156019409658314752',
     '142782417994907648',
